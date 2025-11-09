@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Dados sensíveis - NÃO SUBIR
+*.xlsx
+*.xls
+*.csv
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
