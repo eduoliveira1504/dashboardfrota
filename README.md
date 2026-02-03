@@ -47,16 +47,10 @@ Cada página gera insights automáticos baseados nos dados filtrados:
 
 ## 👤 Autor
 
-**Seu Nome**
+**Eduardo Pereira**
 
 - LinkedIn: [Eduardo Pereira](https://www.linkedin.com/in/eduardo-oliveira-pereira/)
 - GitHub: [@eduoliveira1504](https://github.com/eduoliveira1504)
-
-## 🙏 Agradecimentos
-
-- [Streamlit](https://streamlit.io/) pelo framework incrível
-- [OpenRouteService](https://openrouteservice.org/) pela API de roteamento
-- Comunidade Python pelos ótimos pacotes
 
 ---
 
